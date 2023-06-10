@@ -1,4 +1,0 @@
-交作业邮箱：
-uml_submission@163.com
-邮件主题书写格式：
-studentID_name_assignment_X(1,2...)
